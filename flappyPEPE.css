@@ -1,0 +1,19 @@
+
+body {
+background-color:black;
+color:white;
+}
+#fb{
+position:absolute;
+}
+button{
+background-color:#86d8eb;
+color:black;
+padding:5px;
+border-radius:10px;
+cursor:pointer;
+position:absolute;
+}
+#m{
+    position:absolute;
+}
